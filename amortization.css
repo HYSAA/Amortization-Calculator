@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    background-color: aquamarine;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+}
